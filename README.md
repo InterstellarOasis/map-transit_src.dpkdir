@@ -1,11 +1,18 @@
-Transit
--------
+Transit Station
+---------------
 
 This is a map ported from the [Tremulous](http://tremulous.net/) game to the [Unvanquished](https://www.unvanquished.net/) game.
 
+Ported from Tremulous gpp package from [http://ingar.satgnu.net/files/tremulous/base/](http://ingar.satgnu.net/files/tremulous/base/).
+
+This port is an Interstellar Oasis initiative: [https://github.com/interstellar-oasis/interstellar-oasis](https://github.com/interstellar-oasis/interstellar-oasis).
 
 Credits
 -------
+
+Unvanquished port:
+
+* Thomas “illwieckz” Debesse <dev@illwieckz.net> (http://gg.illwieckz.net)
 
 Mapping:
 
@@ -17,8 +24,15 @@ Textures:
 * Randy “ydnar” Redding <ydnar@shaderlab.com> (http://www.shaderlab.com)
 * Yves “evil lair” Allaire (http://evillair.net)
 
+Special thanks:
+
+* Stijn “Ingar“ Buys <ingar@osirion.org>
+
 Legal
 -----
+
+Changes by Thomas Debesse fall under the Internet Systems Consortium License:  
+http://directory.fsf.org/wiki/License:ISC
 
 Assets by Tremulous contributors fall under the Creative Commons Attribution-ShareAlike 2.5 Generic License:  
 http://creativecommons.org/licenses/by-sa/2.5/
