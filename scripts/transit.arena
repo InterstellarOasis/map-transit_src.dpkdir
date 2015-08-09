@@ -1,0 +1,5 @@
+{
+map		"transit"
+longname	"Transit Station"
+type		"tremulous"
+}
