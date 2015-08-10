@@ -7,6 +7,11 @@ Ported from Tremulous gpp package from [http://ingar.satgnu.net/files/tremulous/
 
 This port is an Interstellar Oasis initiative: [https://github.com/interstellar-oasis/interstellar-oasis](https://github.com/interstellar-oasis/interstellar-oasis).
 
+Levelshot
+---------
+
+![Levelshot](meta/transit/transit_web.jpg)
+
 How-to
 ------
 
@@ -49,7 +54,7 @@ Unvanquished port:
 
 Mapping:
 
-* Jan “Stannum” Van der Weg
+* Jan “Stannum” Van der Weg (http://janvanderweg.com/)
 
 Textures:
 
