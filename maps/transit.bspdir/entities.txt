@@ -70,7 +70,7 @@
 "model" "*7"
 }
 {
-"yaw" "135"
+"yaw" "315"
 "origin" "-4440 -2888 200"
 "classname" "team_alien_overmind"
 }
