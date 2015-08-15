@@ -4,7 +4,7 @@
 "light" "200"
 "classname" "worldspawn"
 "_color" "0.992859 1.000000 0.808713"
-"colorGrade" "gfx/transit/colorgrading.png"
+"gradingTexture" "gfx/transit/colorgrading.png"
 }
 {
 "origin" "-760 -1844 1112"
