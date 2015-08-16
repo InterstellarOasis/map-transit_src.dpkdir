@@ -1,7 +1,7 @@
 Transit Station
 ---------------
 
-This is a map ported from the [Tremulous](http://tremulous.net/) game to the [Unvanquished](https://www.unvanquished.net/) game.
+This is a map ported from the [Tremulous](http://tremulous.net/) game to the [Unvanquished](https://www.unvanquished.net/) game. It features the ruins of a long-destroyed transit station whose walls and floors are still coated in the remains of those who last came to defend it.
 
 Ported from Tremulous gpp package from [http://ingar.satgnu.net/files/tremulous/base/](http://ingar.satgnu.net/files/tremulous/base/).
 
@@ -65,6 +65,7 @@ Textures:
 Special thanks:
 
 * Stijn “Ingar“ Buys <ingar@osirion.org>
+* Dan “kharnov” Floda
 
 Legal
 -----
@@ -84,5 +85,7 @@ Usage and redistribution policy: Textures may be freely downloaded, modified, an
 History
 -------
 
+* 2015-08-16:	Transit Station 1.2 (Unvanquished community map)
 * 2009-12-04:	Tremulous 1.2 Beta (Gameplay preview)
 * 2006-03-31:	Tremulous 1.1.0 (Standalone)
+* 2000-??-??:	Transit Station
