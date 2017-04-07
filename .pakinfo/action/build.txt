@@ -1,0 +1,1 @@
+ignore meta/transit/transit_web.jpg
