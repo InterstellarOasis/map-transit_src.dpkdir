@@ -13,309 +13,309 @@
 {
 "classname" "team_human_spawn"
 "origin" "-864 -1768 1020"
-"yaw" "225"
+"angle" "225"
 }
 {
 "classname" "team_human_spawn"
 "origin" "-864 -1904 1020"
-"yaw" "180"
+"angle" "180"
 }
 {
 "classname" "team_human_spawn"
 "origin" "-952 -2104 1020"
-"yaw" "135"
+"angle" "135"
 }
 {
-"classname" "pos_player_spawn"
+"classname" "info_player_start"
 "origin" "-848 -1896 1168"
 }
 {
-"classname" "pos_player_intermission"
+"classname" "info_player_intermission"
 "origin" "-744 -1696 1168"
-"yaw" "270"
+"angle" "270"
 }
 {
-"classname" "sensor_player"
+"classname" "trigger_multiple"
 "target" "t8"
 "model" "*1"
 }
 {
-"classname" "sensor_player"
+"classname" "trigger_multiple"
 "target" "t6"
 "model" "*2"
 }
 {
-"classname" "sensor_player"
+"classname" "trigger_multiple"
 "target" "t5"
 "model" "*3"
 }
 {
 "target" "t4"
-"classname" "sensor_player"
+"classname" "trigger_multiple"
 "model" "*4"
 }
 {
-"classname" "sensor_player"
+"classname" "trigger_multiple"
 "target" "t3"
 "model" "*5"
 }
 {
-"classname" "sensor_player"
+"classname" "trigger_multiple"
 "target" "t2"
 "model" "*6"
 }
 {
-"classname" "sensor_player"
+"classname" "trigger_multiple"
 "target" "t1"
 "model" "*7"
 }
 {
-"yaw" "315"
+"angle" "315"
 "origin" "-4440 -2888 200"
 "classname" "team_alien_overmind"
 }
 {
-"classname" "pos_player_intermission"
+"classname" "info_player_intermission"
 "origin" "-744 -1696 1168"
-"yaw" "270"
+"angle" "270"
 }
 {
-"classname" "pos_player_spawn"
+"classname" "info_player_start"
 "origin" "-848 -1896 1168"
 }
 {
-"classname" "pos_target"
+"classname" "info_notnull"
 "origin" "-3928 -1304 160"
-"name" "ainter"
+"targetname" "ainter"
 }
 {
-"classname" "pos_alien_intermission"
+"classname" "info_alien_intermission"
 "origin" "-3000 -1696 256"
-"yaw" "180"
+"angle" "180"
 "target" "ainter"
 }
 {
-"yaw" "360"
+"angle" "360"
 "classname" "team_alien_spawn"
 "origin" "-4768 -2688 104"
 }
 {
-"yaw" "225"
+"angle" "225"
 "origin" "-4400 -2064 168"
 "classname" "team_alien_spawn"
 }
 {
-"yaw" "180"
+"angle" "180"
 "classname" "team_alien_spawn"
 "origin" "-4416 -2272 120"
 }
 {
 "classname" "func_door"
-"yaw" "90"
-"name" "t1"
+"angle" "90"
+"targetname" "t1"
 "model" "*8"
 }
 {
 "classname" "func_door"
-"yaw" "270"
-"name" "t1"
+"angle" "270"
+"targetname" "t1"
 "model" "*9"
 }
 {
 "classname" "func_door"
-"yaw" "-2"
+"angle" "-2"
 "model" "*10"
 }
 {
 "classname" "func_door"
-"yaw" "-2"
+"angle" "-2"
 "model" "*11"
 }
 {
-"classname" "pos_player_spawn"
+"classname" "info_player_start"
 "origin" "-1716 -1712 320"
-"yaw" "180"
+"angle" "180"
 }
 {
-"yaw" "-1"
+"angle" "-1"
 "classname" "func_door"
 "model" "*12"
 }
 {
-"yaw" "-1"
+"angle" "-1"
 "classname" "func_door"
 "model" "*13"
 }
 {
-"yaw" "-1"
+"angle" "-1"
 "classname" "func_door"
 "model" "*14"
 }
 {
-"yaw" "180"
+"angle" "180"
 "classname" "func_door"
-"name" "t5"
+"targetname" "t5"
 "model" "*15"
 }
 {
-"yaw" "360"
+"angle" "360"
 "classname" "func_door"
-"name" "t5"
+"targetname" "t5"
 "model" "*16"
 }
 {
 "classname" "func_door"
-"yaw" "180"
-"name" "t6"
+"angle" "180"
+"targetname" "t6"
 "model" "*17"
 }
 {
 "classname" "func_door"
-"yaw" "360"
-"name" "t6"
+"angle" "360"
+"targetname" "t6"
 "model" "*18"
 }
 {
-"yaw" "270"
+"angle" "270"
 "classname" "func_door"
-"name" "t8"
+"targetname" "t8"
 "model" "*19"
 }
 {
-"yaw" "90"
+"angle" "90"
 "classname" "func_door"
-"name" "t8"
+"targetname" "t8"
 "model" "*20"
 }
 {
-"yaw" "270"
+"angle" "270"
 "classname" "func_door"
-"name" "t4"
+"targetname" "t4"
 "model" "*21"
 }
 {
-"yaw" "90"
+"angle" "90"
 "classname" "func_door"
-"name" "t4"
+"targetname" "t4"
 "model" "*22"
 }
 {
-"yaw" "270"
+"angle" "270"
 "classname" "func_door"
-"name" "t3"
+"targetname" "t3"
 "model" "*23"
 }
 {
-"yaw" "90"
+"angle" "90"
 "classname" "func_door"
-"name" "t3"
+"targetname" "t3"
 "model" "*24"
 }
 {
-"yaw" "270"
+"angle" "270"
 "classname" "func_door"
-"name" "t2"
+"targetname" "t2"
 "model" "*25"
 }
 {
-"yaw" "90"
+"angle" "90"
 "classname" "func_door"
-"name" "t2"
+"targetname" "t2"
 "model" "*26"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7Human Default Base^7"
 "origin" "-835.992310 -1897.730835 991.126953"
-"classname" "pos_location"
+"classname" "target_location"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7The Stacks^7"
 "origin" "-1497.289062 -3148.392090 606.432190"
-"classname" "pos_location"
+"classname" "target_location"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7Gas Tanks^7"
 "origin" "-3474.017334 -1954.703613 1196.985352"
-"classname" "pos_location"
+"classname" "target_location"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7Storage^7"
 "origin" "-1510.655884 -1928.049316 230.228699"
-"classname" "pos_location"
+"classname" "target_location"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7Boarding Platform^7"
 "origin" "-3255.267822 -1427.220947 135.636581"
-"classname" "pos_location"
+"classname" "target_location"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7Escalator Room^7"
 "origin" "-2393.739746 -461.825500 506.665619"
-"classname" "pos_location"
+"classname" "target_location"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7Basement^7"
 "origin" "-5962.475586 -1029.646606 -382.230377"
-"classname" "pos_location"
+"classname" "target_location"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7Car 1^7"
 "origin" "-4609.818359 -1776.908813 151.706070"
-"classname" "pos_location"
+"classname" "target_location"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7Car 2^7"
 "origin" "-4644.000000 803.406921 240.479034"
-"classname" "pos_location"
+"classname" "target_location"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7Boarding Platform 2^7"
 "origin" "-5648.022949 -2122.332275 79.126030"
-"classname" "pos_location"
+"classname" "target_location"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7Boarding Platform 2^7"
 "origin" "-5665.292480 1088.251465 79.125000"
-"classname" "pos_location"
+"classname" "target_location"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7Car 1^7"
 "origin" "-4826.366211 -2070.618896 229.599472"
-"classname" "pos_location"
+"classname" "target_location"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7Car 1^7"
 "origin" "-4908.830566 -2070.979248 189.804138"
-"classname" "pos_location"
+"classname" "target_location"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7Blood Room Stairs^7"
 "origin" "-3469.746338 636.570007 481.985199"
-"classname" "pos_location"
+"classname" "target_location"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7Blood Room^7"
 "origin" "-3562.880127 -330.154266 699.266724"
-"classname" "pos_location"
+"classname" "target_location"
 }
 {
-"yaw" "90.000000"
+"angle" "90.000000"
 "message" "^7Blood Room Corridor^7"
 "origin" "-2418.653076 -573.472229 967.125732"
-"classname" "pos_location"
+"classname" "target_location"
 }
