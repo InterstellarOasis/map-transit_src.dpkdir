@@ -1,10 +1,10 @@
 {
-"_ambient" "6"
-"message" "Transit Station"
-"light" "200"
 "classname" "worldspawn"
-"_color" "0.992859 1.000000 0.808713"
+"message" "Transit Station"
 "gradingTexture" "gfx/transit/colorgrading"
+"light" "200"
+"_color" "0.992859 1.000000 0.808713"
+"_ambient" "6"
 }
 {
 "origin" "-760 -1844 1112"
