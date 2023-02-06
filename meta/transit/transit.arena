@@ -1,5 +1,6 @@
 {
-	map			"transit"
-	longname	"Transit Station"
-	type		"tremulous"
+	map "transit"
+	longname "Transit Station"
+	author "Stannum"
+	type "tremulous"
 }
