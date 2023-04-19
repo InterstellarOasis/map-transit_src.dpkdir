@@ -10,7 +10,7 @@ This port is an Interstellar Oasis initiative: [https://github.com/InterstellarO
 Levelshot
 ---------
 
-![Levelshot](meta/transit/transit_web.jpg)
+![Levelshot](meta/transit/transit.webp)
 
 How-to
 ------
