@@ -56,7 +56,10 @@ Usage and redistribution policy: Textures may be freely downloaded, modified, an
 
 ## History
 
-* 2015-08-16: Transit Station 1.2 (Unvanquished community map)
-* 2009-12-04: Tremulous 1.2 Beta (Gameplay preview)
-* 2006-03-31: Tremulous 1.1.0 (Standalone)
-* 2000-??-??: Transit Station
+* `2023-04-21`: _Transit Station_ `1.2.2` (Unvanquished community map dpk)
+* `2018-07-29`: _Transit Station_ `1.2.1` (Unvanquished community map dpk)
+* `2015-08-16`: _Transit Station_ `1.2` (Unvanquished community map)
+* `2009-12-04`: _Transit Station_ `1.2 beta` (Tremulous gameplay preview)
+* `2006-03-31`: _Transit Station_ `1.1.0` (Tremulous standalone game)
+* `2005-08-11`: _Transit Station_ `1.0.0` (Quake Ⅲ Arena Tremulous mod)
+* `2000-??-??`: _Transit Station_ (Work in progress)
